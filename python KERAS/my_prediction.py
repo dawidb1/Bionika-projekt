@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 # generate predictions for training
 trainPredict = model.predict(X_train)
 testPredict = model.predict(X_test)
+y_pred = testPredict
 
 # shift train predictions for plotting
 trainPredictPlot = numpy.empty([len(data),2])
@@ -30,3 +31,6 @@ plt.show()
 [time2,qual2] = plt.plot(testPredictPlot)
 plt.legend([time,qual,time2,qual2], ["data_time","data_qual","test_time","test_qual"], loc=1)
 plt.show()
+
+score = model.evaluate(X_test, y_test)
+print(score)
