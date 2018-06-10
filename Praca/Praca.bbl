@@ -1,0 +1,44 @@
+\begin{thebibliography}{1}
+
+\bibitem{deepl}
+{\sc A.~Sathyanarayana~MSc, Shafiq Joty~PhD, L. F.-L.~P.}
+\newblock Sleep quality prediction from wearable data using deep learning.
+\newblock {\em JMIR Mhealth Uhealth\/} (2016).
+
+\bibitem{youtube}
+{\sc Lobdell, M.}
+\newblock Study less study smart.
+\newblock [Online; dostêp 10.06.2018].
+
+\bibitem{nardeas}
+{\sc nardeas}.
+\newblock sleephow.
+\newblock \url{https://github.com/nardeas/sleephow}, 2017.
+\newblock [Online; dostêp 10.06.2018].
+
+\bibitem{lstm}
+{\sc Olah, C.}
+\newblock Understanding lstm networks.
+\newblock \url{http://colah.github.io/posts/2015-08-Understanding-LSTMs/},
+  2015.
+\newblock [Online; dostêp 7.06.2018].
+
+\bibitem{MedycynaSnu}
+{\sc Wichniak, A., Alon~Avidan, Y., and Phyllis~Zee, C.}
+\newblock {\em {Podrêcznik medycyny snu}}.
+\newblock Medipage, Kraków, 2007.
+
+\bibitem{wiki}
+{\sc Wikipedia}.
+\newblock {\em {Sieæ neuronowa}}.
+\newblock Wikimedia Foundation, 2018.
+
+\bibitem{perceptron}
+{\sc Yassin, G.}
+\newblock {Build Simple AI .NET Library - Part 3 - Perceptron}.
+\newblock
+  \url{https://www.codeproject.com/Articles/1205732/Build-Simple-AI-NET-Library-Part-Perceptron},
+  2017.
+\newblock [Online; dostêp 10.06.2018].
+
+\end{thebibliography}

@@ -1,28 +1,26 @@
 \BOOKMARK [0][-]{chapter.1}{Wstep}{}% 1
 \BOOKMARK [1][-]{section.1.1}{Cel projektu}{chapter.1}% 2
 \BOOKMARK [1][-]{section.1.2}{Optymalna ilosc snu}{chapter.1}% 3
-\BOOKMARK [1][-]{section.1.3}{Charakterystyka snu}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.3}{Zaburzenia powodowane brakiem snu}{chapter.1}% 4
 \BOOKMARK [1][-]{section.1.4}{Jakosc snu}{chapter.1}% 5
-\BOOKMARK [2][-]{subsection.1.4.1}{Zaburzenia powodowane brakiem snu}{section.1.4}% 6
-\BOOKMARK [0][-]{chapter.2}{Siec neuronowa}{}% 7
-\BOOKMARK [1][-]{section.2.1}{Perceptron}{chapter.2}% 8
-\BOOKMARK [1][-]{section.2.2}{Wielowarstowa siec neuronowa}{chapter.2}% 9
-\BOOKMARK [1][-]{section.2.3}{Uczenie z nadzorem}{chapter.2}% 10
-\BOOKMARK [1][-]{section.2.4}{G\233ebokie uczenie}{chapter.2}% 11
-\BOOKMARK [0][-]{chapter.3}{Dane wejsciowe}{}% 12
-\BOOKMARK [1][-]{section.3.1}{Zbieranie danych}{chapter.3}% 13
-\BOOKMARK [1][-]{section.3.2}{Przygotowywanie danych}{chapter.3}% 14
-\BOOKMARK [0][-]{chapter.4}{Model sieci}{}% 15
-\BOOKMARK [1][-]{section.4.1}{Wejscia sieci}{chapter.4}% 16
-\BOOKMARK [1][-]{section.4.2}{Wyjscia sieci}{chapter.4}% 17
-\BOOKMARK [1][-]{section.4.3}{Pow\233oki}{chapter.4}% 18
-\BOOKMARK [1][-]{section.4.4}{Funkcje aktywacji}{chapter.4}% 19
-\BOOKMARK [0][-]{chapter.5}{Wyniki}{}% 20
-\BOOKMARK [0][-]{chapter.6}{Wnioski}{}% 21
-\BOOKMARK [0][-]{chapter.7}{Dalszy rozw\363j projektu}{}% 22
-\BOOKMARK [-1][-]{part*.6}{Dodatek}{}% 23
-\BOOKMARK [0][-]{appendix.A}{Dodatek A}{part*.6}% 24
-\BOOKMARK [0][-]{appendix.B}{Dodatek B}{part*.6}% 25
-\BOOKMARK [1][-]{section.B.1}{Wstawianie rysunk\363w}{appendix.B}% 26
-\BOOKMARK [1][-]{section.B.2}{Wstawianie tabelek}{appendix.B}% 27
-\BOOKMARK [0][-]{appendix.C}{Kwestie edytorskie}{part*.6}% 28
+\BOOKMARK [1][-]{section.1.5}{Charakterystyka snu}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.5.1}{Fazy snu}{section.1.5}% 7
+\BOOKMARK [2][-]{subsection.1.5.2}{Stadia fazy NREM}{section.1.5}% 8
+\BOOKMARK [0][-]{chapter.2}{Siec neuronowa}{}% 9
+\BOOKMARK [1][-]{section.2.1}{Perceptron}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.2}{Rekurencyjna siec neuronowa}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.3}{LSTM}{chapter.2}% 12
+\BOOKMARK [0][-]{chapter.3}{Informacje techniczne}{}% 13
+\BOOKMARK [0][-]{chapter.4}{Dane wejsciowe}{}% 14
+\BOOKMARK [1][-]{section.4.1}{Zbieranie danych}{chapter.4}% 15
+\BOOKMARK [1][-]{section.4.2}{Przygotowywanie danych}{chapter.4}% 16
+\BOOKMARK [0][-]{chapter.5}{Model sieci}{}% 17
+\BOOKMARK [1][-]{section.5.1}{Wejscia sieci}{chapter.5}% 18
+\BOOKMARK [1][-]{section.5.2}{Wyjscia sieci}{chapter.5}% 19
+\BOOKMARK [1][-]{section.5.3}{Pow\233oki}{chapter.5}% 20
+\BOOKMARK [0][-]{chapter.6}{Wyniki}{}% 21
+\BOOKMARK [1][-]{section.6.1}{Trudnosci rozwiazania}{chapter.6}% 22
+\BOOKMARK [1][-]{section.6.2}{Dodatek}{chapter.6}% 23
+\BOOKMARK [0][-]{chapter.7}{Wnioski}{}% 24
+\BOOKMARK [0][-]{chapter.8}{Dalszy rozw\363j projektu}{}% 25
+\BOOKMARK [0][-]{chapter.8}{Bibliografia}{}% 26

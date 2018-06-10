@@ -31,11 +31,13 @@
 \mainmatter % <--- to + frontmatter powy¿ej odpowiada za fakt, ¿e numerowanie jest od 1!
 \input{Rozdzialy}
 
-\appendix  % <--- zaczynaj¹ siê dodatki; jak nazywa siê rozdzia³ -> szukaæ appendixname powy¿ej
-\input{Dodatek_A}
+%\appendix  % <--- zaczynaj¹ siê dodatki; jak nazywa siê rozdzia³ -> szukaæ appendixname powy¿ej
 
-\clearpage \addcontentsline{toc}{chapter}{\bibname}
+\clearpage 
+\addcontentsline{toc}{chapter}{\bibname}
 \bibliography{Praca}
-
-
+\nocite{deepl}
+\nocite{perceptron}
+\nocite{nardeas}
+\nocite{youtube}
 \end{document}

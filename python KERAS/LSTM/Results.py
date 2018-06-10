@@ -26,7 +26,22 @@ real_sleep_quality = dataset_test.iloc[:, 3:4].values
 predicted_sleep_quality = regressor.predict(X_test)
 predicted_sleep_quality = sc_quality.inverse_transform(predicted_sleep_quality)
 
+print(history.history.keys())
+
+figure_sign_core = '-TS'+str(TIME_STEPS) + '-batch'+str(BATCH_SIZE)+'-e'+str(EPOCHS)+'-LSTM'+str(LAYER1)+str(LAYER2)+str(LAYER3)+str(LAYER4)
+fig2 = plt.figure(2)
+fig2.canvas.set_window_title('loss-chart'+figure_sign_core);
+plt.plot(history.history['loss'])
+#plt.plot(history.history['val_loss'])
+plt.title('model loss')
+plt.ylabel('loss')
+plt.xlabel('epoch')
+plt.legend(['train', 'test'], loc='upper left')
+plt.show()
+
 # Visualising the results
+fig3 = plt.figure(3)
+fig3.canvas.set_window_title('Result-chart' + figure_sign_core);
 plt.plot(real_sleep_quality, color = 'red', label = 'Real Sleep Quality')
 plt.plot(predicted_sleep_quality, color = 'blue', label = 'Predicted Sleep Quality')
 plt.title('LSTM Sleep Quality Prediction')

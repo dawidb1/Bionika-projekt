@@ -15,7 +15,7 @@ import datetime
 from sklearn.preprocessing import MinMaxScaler
 
 #Define constants
-TIME_STEPS = 32;
+TIME_STEPS = 20;
 #DEFINE FUNCTIONS
 def getStartMinutesArray(dataset_train):
     start_times = pd.DatetimeIndex(dataset_train['Sleep start']) 
@@ -91,6 +91,8 @@ X_train = np.dstack((X_train_start, X_train_end, X_train_weekday))
 
 
 #plot data
+fig = plt.figure(1)
+fig.canvas.set_window_title('Sleep Qual 200');
 real_sleep_quality_data = dataset_total.iloc[:,3:4].values
 plt.plot(real_sleep_quality_data, color = 'red', label = 'Real Sleep Quality')
 plt.title('Real Sleep Quality')
