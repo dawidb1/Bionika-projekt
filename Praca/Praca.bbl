@@ -1,5 +1,10 @@
 \begin{thebibliography}{1}
 
+\bibitem{statistics}
+Sleep and sleep disorders.
+\newblock \url{https://www.cdc.gov/sleep/data_statistics.html}, 2017.
+\newblock [Online; dostêp 10.06.2018].
+
 \bibitem{deepl}
 {\sc A.~Sathyanarayana~MSc, Shafiq Joty~PhD, L. F.-L.~P.}
 \newblock Sleep quality prediction from wearable data using deep learning.
@@ -9,6 +14,12 @@
 {\sc Lobdell, M.}
 \newblock Study less study smart.
 \newblock [Online; dostêp 10.06.2018].
+
+\bibitem{melatonina}
+{\sc Ma³gorzata~Lehner, Adam~Hamed, A.~P.}
+\newblock Regulacja rytmów oko³odobowych na przyk³adzie melatoniny o powolnym
+  uwalnianiu.
+\newblock {\em Kwartalnik Farmakoterapia w Psychiatrii i Neurologii\/} (2009).
 
 \bibitem{nardeas}
 {\sc nardeas}.
